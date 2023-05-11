@@ -1,0 +1,5 @@
+com\Hostbuddy\item\ItemRepo.class
+com\Hostbuddy\item\Item.class
+com\Hostbuddy\item\ItemApplication.class
+com\Hostbuddy\item\ItemController.class
+com\Hostbuddy\item\ItemService.class
